@@ -14,7 +14,7 @@
 }
 
 .navbar-nav > li > button{ 
-  padding-left: 20px;
+  padding-left: 0px;
   padding-right: 20px;
   color: rgb(12, 131, 199);
 }
@@ -62,10 +62,11 @@
   padding: 50px;
 }
 
-.title{x
+.title{
   color: rgb(12, 131, 199);
 }
 
 #title{
   color: rgb(12, 131, 199);
 }
+
